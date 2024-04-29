@@ -1,0 +1,3 @@
+last 2 versions
+Edge >= 80
+not [tdFade]="[tdFade]="dead""
